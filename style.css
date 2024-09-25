@@ -1,6 +1,6 @@
 .Anchor{
   color: rgb(255, 255, 255);
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Aptos Narrow', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 button{
   border: -5mm;
@@ -10,15 +10,15 @@ button{
 }
 
 .Headings{
-  font-style: oblique;
-  font-family: Georgia;
+  font-style: Narrow;
+  font-family: Aptos Narrow;
   font-weight: 100;
   font-variant: initial;
   font-size: normal;
 }
 
 p{
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Aptos Narrow', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Aptos Narrow;
 }
 
 body{
