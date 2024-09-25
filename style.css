@@ -3,10 +3,16 @@
   font-family: Aptos Narrow;
 }
 button{
-  border: -5mm;
   border-style: double;
   outline-width: 1mm;
   outline-style: double;
+  width: 100px;
+  height: 48px;
+  border-radius: 24px;
+  background-color: #f1316b;
+  color: #eb4034;
+  margin-top: 45px;
+  border:none;
 }
 
 .Headings{
