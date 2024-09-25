@@ -6,14 +6,13 @@ button{
   border-style: double;
   outline-width: 1mm;
   outline-style: double;
-  width: 50px;
-  height: 24px;
-  border-radius: 24px;
+  width: 100px;
+  height: 50px;
+  border-radius: 30px;
   background-color: #f1316b;
   color: #eb4034;
   margin-top: 45px;
   border:none;
-  size:
 }
 
 .Headings{
