@@ -1,0 +1,33 @@
+.Anchor{
+  color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+  border: -5mm;
+  border-style: double;
+  outline-width: 1mm;
+  outline-style: double;
+}
+
+.Headings{
+  font-style: oblique;
+  font-family: Georgia;
+  font-weight: 100;
+  font-variant: initial;
+  font-size: normal;
+}
+
+p{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+  background-color: white;
+}
+
+button{
+  color: blue;
+  background-color: blue;
+
+}
+    
