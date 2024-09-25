@@ -3,7 +3,7 @@
   font-family: Aptos Narrow;
 }
 button{
-  border-style: double;
+  border-style: dotted;
   outline-width: 1mm;
   outline-style: double;
   width: 100px;
