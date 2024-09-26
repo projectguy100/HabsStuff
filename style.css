@@ -8,8 +8,8 @@ button{
   width: 100px;
   height: 50px;
   border-radius: 30px;
-  background-color: #f1316b;
-  color: #eb4034;
+  background-color: #2dcc82;
+  color: #2dcc82;
   margin-top: 45px;
 }
 
@@ -22,7 +22,7 @@ button{
 }
 
 p{
-  font-family:'Aptos Narrow', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Aptos Narrow;
+  font-family:'Aptos Narrow', Aptos Narrow;
 }
 
 body{
@@ -30,8 +30,8 @@ body{
 }
 
 button{
-  color: blue;
-  background-color: blue;
+  color: RGB(41, 186, 111);
+  background-color: RBG(45, 132, 204);
 
 }
 
