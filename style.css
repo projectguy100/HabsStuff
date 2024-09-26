@@ -3,7 +3,6 @@
   font-family: Aptos Narrow;
 }
 button{
-  border-style: double;
   outline-width: 1mm;
   outline-style: double;
   width: 50px;
@@ -35,5 +34,9 @@ button{
   color: blue;
   background-color: blue;
 
+}
+
+body{
+  background-color: rgb(189, 252, 239);
 }
     
